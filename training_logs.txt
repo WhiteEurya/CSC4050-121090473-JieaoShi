@@ -1,0 +1,10 @@
+
+
+=================================
+
+Run 0
+iteration 0, the loss is 63.21571350097656
+iteration 1, the loss is 60.553009033203125
+iteration 2, the loss is 37.9393310546875
+iteration 3, the loss is 48.730308532714844
+iteration 4, the loss is 68.04467010498047
